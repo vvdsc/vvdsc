@@ -1,11 +1,13 @@
 # Me :
 24<br>Likes exploiting and reversing things<br>Currently working on some cybersecurity tools with some friends <br>
 
+```cpp
+
 #include <iostream>
 #include <vector>
 
 class P {public: std::string u; int a; std::vector<std::string> l; std::string d; std::string s; std::string f; P(const std::string& usr, int ag, const std::vector<std::string>& langs, const std::string& server, const std::string& sk, const std::string& favFood) : u(usr), a(ag), l(langs), d(server), s(sk), f(favFood) {} void db() const { std::cout << "U: " << u << "\nA: " << a << " yo\nL: "; for (const auto& lang : l) std::cout << lang << " "; std::cout << "\nD: " << d << "\nS: " << s << "\nF: " << f << std::endl; } }; int main() { std::vector<std::string> ll = {"C++", "C#", "C", "Python", "Node.js"}; P v("vivid", 24, ll, "gg/cordreapers", "Human compiler lmao", "Waffles"); v.db(); return 0; }
-
+```
 
 ## Discord:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://www.discprd.gg/cordreapers) 
