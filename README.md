@@ -1,5 +1,5 @@
 # Me :
-24<br>Likes exploiting and reversing things<br>Currently working on some cybersecurity tools with some friends <br>
+24<br>Likes exploiting and reversing things<br>Currently working on some cybersecurity tools with some friends <br> Human code obfuscator and compiler :) <br>
 
 ```cpp
 
